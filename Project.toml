@@ -1,3 +1,6 @@
 name = "Hawkes"
 uuid = "1a8a6ae1-07e9-4335-83e9-6ca622dd13bc"
 version = "0.1.0"
+
+[compat]
+julia = "^1"
